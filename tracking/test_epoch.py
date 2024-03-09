@@ -73,7 +73,7 @@ def set_state(state, tracker_param):
         yaml.dump(doc, f)
 
 if __name__ == '__main__':
-    cfg = 'multi-hivit-ep150-4frames'
+    cfg = 'AQATrack-ep150-full-256'
     datasets = ['lasot']#['lasot_extension_subset', 'uav']#['lasot_extension_subset', 'uav', 'tnl2k']#,'lasot']#,'tnl2k',lasot_extension_subset]
     savename = 'hivitb_224_ep'+str(i)
     for dataset in datasets:
