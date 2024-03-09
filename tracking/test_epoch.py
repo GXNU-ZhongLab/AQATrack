@@ -75,9 +75,7 @@ def set_state(state, tracker_param):
 if __name__ == '__main__':
     cfg = 'multi-hivit-ep150-4frames'
     datasets = ['lasot']#['lasot_extension_subset', 'uav']#['lasot_extension_subset', 'uav', 'tnl2k']#,'lasot']#,'tnl2k',lasot_extension_subset]
-    for i in range(145,151):#[160,180,190,200,210,220,230,240,250,260,270,280,290,295,296,297,298,299,300,]:#165,170,175,180,185,190,195,200,205,210,215,220]:#range(295, 301):
-
-        savename = 'hivitb_224_ep'+str(i)
-        for dataset in datasets:
-            main(i,dataset,cfg, savename)
+    savename = 'hivitb_224_ep'+str(i)
+    for dataset in datasets:
+        main(150,dataset,cfg, savename) #test the 150th epoch
 
