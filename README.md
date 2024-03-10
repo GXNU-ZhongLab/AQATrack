@@ -104,10 +104,10 @@ python tracking/profile_model.py --script aqatrack --config AQATrack-ep150-full-
 If our work is useful for your research, please consider cite:
 
 ```
-@article{ye2022ostrack,
+@article{xie2024AQAtrack,
   title={Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework},
-  author={Ye, Botao and Chang, Hong and Ma, Bingpeng and Shan, Shiguang},
-  journal={arXiv preprint arXiv:2203.11991},
-  year={2022}
+  author={Jinxia Xie, Bineng Zhong, Zhiyi Mo, Shengping Zhang, Liangtao Shi, Shuxiang Song, Rongrong Ji},
+  journal={arXiv preprint arXiv:},
+  year={2024}
 }
 ```
