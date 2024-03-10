@@ -74,8 +74,9 @@ def set_state(state, tracker_param):
 
 if __name__ == '__main__':
     cfg = 'AQATrack-ep150-full-256'
-    datasets = ['lasot']#['lasot_extension_subset', 'uav']#['lasot_extension_subset', 'uav', 'tnl2k']#,'lasot']#,'tnl2k',lasot_extension_subset]
-    savename = 'hivitb_224_ep'+str(i)
+    datasets = ['lasot','lasot_extension_subset', 'uav','tnl2k','trackingnet'] # 'got10k'
+    epoch = 150 # test the 150th epoch
+    savename = 'hivitb_224_ep'+str(epoch)
     for dataset in datasets:
-        main(150,dataset,cfg, savename) #test the 150th epoch
+        main(epoch,dataset,cfg, savename) #test the 150th epoch
 
