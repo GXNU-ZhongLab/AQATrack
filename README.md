@@ -13,8 +13,8 @@ Training logs:[[Training logs]](https://drive.google.com/drive/folders/1nfdoPeqa
 ## :sunny: Highlights
 
 ### :star2: New One-stream Tracking Framework
-OSTrack is a simple, neat, high-performance **one-stream tracking framework** for joint feature learning and relational modeling based on self-attention operators.
-Without any additional temporal information, OSTrack achieves SOTA performance on multiple benchmarks. OSTrack can serve as a strong baseline for further research.
+AQATrack is a simple, high-performance **autoregressive query-based spatio-temporal tracker** for adaptive learning the instantaneous target appearance changes in a sliding window
+fashion. Without any additional upadate strategy, AQATrack achieves SOTA performance on multiple benchmarks.
 
 | Tracker     | LaSOT (AUC)|LaSOT<sub>ext (AUC)|UAV123 (AUC)|TrackingNet (AUC)|GOT-10K (AO)
 |:-----------:|:----------:|:-----------------:|:----------:|:---------------:|:----------:
@@ -105,10 +105,10 @@ python tracking/profile_model.py --script aqatrack --config AQATrack-ep150-full-
 If our work is useful for your research, please consider cite:
 
 ```
-@article{xie2024aqatrack,
-  title={Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers},
-  author={},
-  journal={},
-  year={2024}
+@article{ye2022ostrack,
+  title={Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework},
+  author={Ye, Botao and Chang, Hong and Ma, Bingpeng and Shan, Shiguang},
+  journal={arXiv preprint arXiv:2203.11991},
+  year={2022}
 }
 ```
