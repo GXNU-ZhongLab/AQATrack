@@ -22,7 +22,7 @@ fashion. Without any additional upadate strategy, AQATrack achieves SOTA perform
 
 
 ## Install the environment
-**Option1**: Use the Anaconda
+Use the Anaconda
 ```
 conda create -n aqatrack python=3.8
 conda activate aqatrack
