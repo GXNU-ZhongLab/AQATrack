@@ -8,6 +8,7 @@ Training logs:[[Training logs]](https://drive.google.com/drive/folders/1nfdoPeqa
 <!-- <p align="center">
   <img width="50%" src="https://github.com/JinxiaXie/AQATrack/blob/main/assets/arch.png" alt="Framework"/>
 </p> -->
+![archetectrue](https://github.com/JinxiaXie/AQATrack/blob/main/assets/arch.png)
 
 
 ## :sunny: Highlights
