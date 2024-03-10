@@ -1,7 +1,7 @@
 # AQATrack
 The official implementation for the **CVPR 2024** paper [_Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers_](https://arxiv.org/) 
 
-Models:[[Models]](https://drive.google.com/drive/folders/1nfdoPeqah2qYnHuazQMdYFKsrwL5eBEM)
+Models:[[Models]](https://drive.google.com/drive/folders/1h0aaZ5rzaYc_0Crd4lZs-ouvFCgWdbyT)
 Raw Results:[[Raw Results]](https://drive.google.com/drive/folders/1nfdoPeqah2qYnHuazQMdYFKsrwL5eBEM)
 Training logs:[[Training logs]](https://drive.google.com/drive/folders/1nfdoPeqah2qYnHuazQMdYFKsrwL5eBEM)
 
