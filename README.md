@@ -6,7 +6,7 @@ Raw Results:[[Raw Results]](https://drive.google.com/drive/folders/1nfdoPeqah2qY
 Training logs:[[Training logs]](https://drive.google.com/drive/folders/1nfdoPeqah2qYnHuazQMdYFKsrwL5eBEM)
 
 <!-- <p align="center">
-  <img width="85%" src="https://github.com/botaoye/OSTrack/blob/main/assets/arch.png" alt="Framework"/>
+  <img width="85%" src="https://github.com/JinxiaXie/AQATrack/main/assets/arch.png" alt="Framework"/>
 </p> -->
 
 
