@@ -5,10 +5,8 @@ Models:[[Models]](https://drive.google.com/drive/folders/1nfdoPeqah2qYnHuazQMdYF
 Raw Results:[[Raw Results]](https://drive.google.com/drive/folders/1nfdoPeqah2qYnHuazQMdYFKsrwL5eBEM)
 Training logs:[[Training logs]](https://drive.google.com/drive/folders/1nfdoPeqah2qYnHuazQMdYFKsrwL5eBEM)
 
-<!-- <p align="center">
-  <img width="50%" src="https://github.com/JinxiaXie/AQATrack/blob/main/assets/arch.png" alt="Framework"/>
-</p> -->
-![archetectrue](https://github.com/JinxiaXie/AQATrack/blob/main/assets/arch.png)
+## :sunny: Structure of AQATrack 
+![structure](https://github.com/JinxiaXie/AQATrack/blob/main/assets/arch.png)
 
 
 ## :sunny: Highlights
