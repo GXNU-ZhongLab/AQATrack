@@ -1,13 +1,3 @@
-"""
-STARK Transformer class.
-
-Copy-paste from torch.nn.Transformer with modifications:
-    * positional encodings are passed in MHattention
-    * extra LN at the end of encoder is removed
-    * decoder returns a stack of activations from all decoding layers
-
-2020.12.23 Split some preprocess fom the forward function
-"""
 import copy
 from typing import Optional, List
 
@@ -119,8 +109,8 @@ class TransformerDecoderLayer(nn.Module):
     def __init__(self, d_model, nhead, dim_feedforward=2048, dropout=0.1,
                  activation="relu", normalize_before=False, divide_norm=False):
         super().__init__()
-        self.self_attn = nn.MultiheadAttention(d_model, nhead, dropout=dropout) #自注意力
-        self.multihead_attn = nn.MultiheadAttention(d_model, nhead, dropout=dropout) #交叉注意力
+        self.self_attn = nn.MultiheadAttention(d_model, nhead, dropout=dropout) 
+        self.multihead_attn = nn.MultiheadAttention(d_model, nhead, dropout=dropout) 
         # Implementation of Feedforward model
         self.linear1 = nn.Linear(d_model, dim_feedforward)
         self.dropout = nn.Dropout(dropout)
