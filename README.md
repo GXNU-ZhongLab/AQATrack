@@ -2,8 +2,8 @@
 The official implementation for the **CVPR 2024** paper [_Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers_](https://arxiv.org/) 
 
 Models:[[Models]](https://drive.google.com/drive/folders/1h0aaZ5rzaYc_0Crd4lZs-ouvFCgWdbyT)
-Raw Results:[[Raw Results]](https://drive.google.com/drive/folders/1nfdoPeqah2qYnHuazQMdYFKsrwL5eBEM)
-Training logs:[[Training logs]](https://drive.google.com/drive/folders/1nfdoPeqah2qYnHuazQMdYFKsrwL5eBEM)
+Raw Results:[[Raw Results]](https://drive.google.com/drive/folders/1lx-ge-N3vRZAPLwkyWK5creiQyHktWEz)
+Training logs:[[Training logs]](https://drive.google.com/drive/folders/1SB4cry17xNGikJdNmFmoPHP119Yv-1rp)
 
 ## :sunny: Structure of AQATrack 
 ![structure](https://github.com/JinxiaXie/AQATrack/blob/main/assets/arch.png)
