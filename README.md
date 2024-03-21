@@ -107,7 +107,7 @@ If our work is useful for your research, please consider cite:
 @article{xie2024AQAtrack,
   title={Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers},
   author={Jinxia Xie, Bineng Zhong, Zhiyi Mo, Shengping Zhang, Liangtao Shi, Shuxiang Song, Rongrong Ji},
-  journal={arXiv preprint arXiv:},
+  journal={...},
   year={2024}
 }
 ```
