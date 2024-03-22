@@ -99,16 +99,15 @@ python tracking/profile_model.py --script aqatrack --config AQATrack-ep150-full-
 ## Acknowledgments
 * Thanks for the [OSTrack](https://github.com/botaoye/OSTrack) and [PyTracking](https://github.com/visionml/pytracking) library, which helps us to quickly implement our ideas.
 
-<!-- 最后一个注释 
+
 ## Citation
 If our work is useful for your research, please consider cite:
 
 ```
-@article{xie2024AQAtrack,
-  title={Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers},
-  author={Jinxia Xie, Bineng Zhong, Zhiyi Mo, Shengping Zhang, Liangtao Shi, Shuxiang Song, Rongrong Ji},
-  journal={...},
+@article{xie2024AQATrack,
+  title={Autoregressive Queries for Adaptive Tracking with Spatio-TemporalTransformers},
+  author={Xie, Jinxia and Zhong, Bineng and Mo, Zhiyi and Zhang, Shengping and Shi, Liangtao and Song, Shuxiang and Ji, Rongrong},
+  journal={arXiv preprint arXiv:2403.10574},
   year={2024}
 }
 ```
--->
