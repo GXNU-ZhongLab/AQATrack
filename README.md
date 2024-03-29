@@ -11,7 +11,7 @@ Training logs:[[Training logs]](https://drive.google.com/drive/folders/1SB4cry17
 
 ## :sunny: Highlights
 
-### :star2: New One-stream Tracking Framework
+### :star2: New Autoregressive Query-based Tracking Framework
 AQATrack is a simple, high-performance **autoregressive query-based spatio-temporal tracker** for adaptive learning the instantaneous target appearance changes in a sliding window
 fashion. Without any additional upadate strategy, AQATrack achieves SOTA performance on multiple benchmarks.
 
