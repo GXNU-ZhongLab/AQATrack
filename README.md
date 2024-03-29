@@ -97,7 +97,7 @@ python tracking/profile_model.py --script aqatrack --config AQATrack-ep150-full-
 
 
 ## Acknowledgments
-* Thanks for the [OSTrack](https://github.com/botaoye/OSTrack) and [PyTracking](https://github.com/visionml/pytracking) library, which helps us to quickly implement our ideas.
+* Thanks for the [EVPTrack](https://github.com/GXNU-ZhongLab/EVPTrack) and [PyTracking](https://github.com/visionml/pytracking) library, which helps us to quickly implement our ideas.
 
 
 ## Citation
