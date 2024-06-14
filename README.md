@@ -104,10 +104,11 @@ python tracking/profile_model.py --script aqatrack --config AQATrack-ep150-full-
 If our work is useful for your research, please consider cite:
 
 ```
-@article{xie2024AQATrack,
-  title={Autoregressive Queries for Adaptive Tracking with Spatio-TemporalTransformers},
+@inproceedings{xie2024autoregressive,
+  title={Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers},
   author={Xie, Jinxia and Zhong, Bineng and Mo, Zhiyi and Zhang, Shengping and Shi, Liangtao and Song, Shuxiang and Ji, Rongrong},
-  journal={arXiv preprint arXiv:2403.10574},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={19300--19309},
   year={2024}
 }
 ```
