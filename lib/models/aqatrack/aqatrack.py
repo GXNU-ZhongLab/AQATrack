@@ -97,7 +97,7 @@ class AQATrack(nn.Module):
         if not training:
             batch0.append(x_decs[0])
         else:
-            batch0 = [x_decs[i + j*num_search] for j in range(b0) for i in range(num_search)]
+            batch0 = [x_decs[i + j*num_search]  for i in range(num_search) for j in range(b0)]
         
         x_dec = torch.cat(batch0, dim = 1)
 
